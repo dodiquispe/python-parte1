@@ -11,6 +11,6 @@ numero = int(input('ingrese un numero entero mayor a cero'))
 if numero >= 0:
     for i in range(numero, 0, -1):
         factorial*=i
-    print (factorial)
+    print ('El factorial de 5 es: ',factorial)
 else:
     print("no es mayor a cero")
