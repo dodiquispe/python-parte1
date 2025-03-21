@@ -6,7 +6,7 @@ Respuesta Esperada:
 El mínimo es:   3
 El máximo es:   80'''
 lista = [50, 75, 46, 22, 80, 65, 3, 15]
-lista = [50, 75, 46, 22, 80,-2, 65, 3, 15,99,1]
+# lista = [50, 75, 46, 22, 80,-2, 65, 3, 15,99,1]
 menor = min(lista)
 mayor = max(lista)
 print("El mínimo es:", menor)
